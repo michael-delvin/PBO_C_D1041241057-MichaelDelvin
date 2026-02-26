@@ -8,9 +8,9 @@ Program Latihan Bulan
 public class LatihanBulan {
     public static void main(String[] args) {
         //Deklarasi bulan
-        //int month = 5;
+        int month = 5;
         //Nilai bulan yang tidak sesuai
-        int month = 13;
+        //int month = 13;
         String monthName;
 
         //Tampilkan konversi bulan
